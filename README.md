@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nguyen Ngoc Huyen Trang 
-- 🌱 I’m currently a student at UEH-ISB University transfering to Wollongong University
-- 💞️ I’m looking for Analyst intern
+- 👋 Hi, I am Nguyen Ngoc Huyen Trang 
+- 🌱 I am currently a student at UEH-ISB University transfering to Wollongong University
+- 💞️ I am looking for Analyst internship opportunities
 - 📫 I have some necessary technical skills including SQL, Python, Power BI, Tableau, Excel.
 
 <!---
